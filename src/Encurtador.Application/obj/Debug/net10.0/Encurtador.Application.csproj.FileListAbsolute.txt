@@ -1,0 +1,11 @@
+D:\temp\encurtador\src\Encurtador.Application\bin\Debug\net10.0\Encurtador.Application.deps.json
+D:\temp\encurtador\src\Encurtador.Application\bin\Debug\net10.0\Encurtador.Application.dll
+D:\temp\encurtador\src\Encurtador.Application\bin\Debug\net10.0\Encurtador.Application.pdb
+D:\temp\encurtador\src\Encurtador.Application\obj\Debug\net10.0\Encurtador.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\encurtador\src\Encurtador.Application\obj\Debug\net10.0\Encurtador.Application.AssemblyInfoInputs.cache
+D:\temp\encurtador\src\Encurtador.Application\obj\Debug\net10.0\Encurtador.Application.AssemblyInfo.cs
+D:\temp\encurtador\src\Encurtador.Application\obj\Debug\net10.0\Encurtador.Application.csproj.CoreCompileInputs.cache
+D:\temp\encurtador\src\Encurtador.Application\obj\Debug\net10.0\Encurtador.Application.dll
+D:\temp\encurtador\src\Encurtador.Application\obj\Debug\net10.0\refint\Encurtador.Application.dll
+D:\temp\encurtador\src\Encurtador.Application\obj\Debug\net10.0\Encurtador.Application.pdb
+D:\temp\encurtador\src\Encurtador.Application\obj\Debug\net10.0\ref\Encurtador.Application.dll

@@ -1,0 +1,17 @@
+D:\temp\encurtador\src\Encurtador.Infrastructure\bin\Debug\net10.0\Encurtador.Infrastructure.deps.json
+D:\temp\encurtador\src\Encurtador.Infrastructure\bin\Debug\net10.0\Encurtador.Infrastructure.runtimeconfig.json
+D:\temp\encurtador\src\Encurtador.Infrastructure\bin\Debug\net10.0\Encurtador.Infrastructure.dll
+D:\temp\encurtador\src\Encurtador.Infrastructure\bin\Debug\net10.0\Encurtador.Infrastructure.pdb
+D:\temp\encurtador\src\Encurtador.Infrastructure\bin\Debug\net10.0\Encurtador.Application.dll
+D:\temp\encurtador\src\Encurtador.Infrastructure\bin\Debug\net10.0\Encurtador.Application.pdb
+D:\temp\encurtador\src\Encurtador.Infrastructure\obj\Debug\net10.0\Encurtador.Infrastructure.csproj.AssemblyReference.cache
+D:\temp\encurtador\src\Encurtador.Infrastructure\obj\Debug\net10.0\Encurtador.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\encurtador\src\Encurtador.Infrastructure\obj\Debug\net10.0\Encurtador.Infrastructure.AssemblyInfoInputs.cache
+D:\temp\encurtador\src\Encurtador.Infrastructure\obj\Debug\net10.0\Encurtador.Infrastructure.AssemblyInfo.cs
+D:\temp\encurtador\src\Encurtador.Infrastructure\obj\Debug\net10.0\Encurtador.Infrastructure.csproj.CoreCompileInputs.cache
+D:\temp\encurtador\src\Encurtador.Infrastructure\obj\Debug\net10.0\Encurtad.2ABD6BFE.Up2Date
+D:\temp\encurtador\src\Encurtador.Infrastructure\obj\Debug\net10.0\Encurtador.Infrastructure.dll
+D:\temp\encurtador\src\Encurtador.Infrastructure\obj\Debug\net10.0\refint\Encurtador.Infrastructure.dll
+D:\temp\encurtador\src\Encurtador.Infrastructure\obj\Debug\net10.0\Encurtador.Infrastructure.pdb
+D:\temp\encurtador\src\Encurtador.Infrastructure\obj\Debug\net10.0\Encurtador.Infrastructure.genruntimeconfig.cache
+D:\temp\encurtador\src\Encurtador.Infrastructure\obj\Debug\net10.0\ref\Encurtador.Infrastructure.dll
