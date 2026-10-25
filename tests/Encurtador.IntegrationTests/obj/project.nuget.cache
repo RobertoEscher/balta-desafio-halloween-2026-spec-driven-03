@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qYfoqVh+BgU=",
+  "dgSpecHash": "hsRlElxhjQQ=",
   "success": true,
-  "projectFilePath": "D:\\temp\\encurtador\\tests\\Encurtador.IntegrationTests\\Encurtador.IntegrationTests.csproj",
+  "projectFilePath": "D:\\desafio\\balta-desafio-halloween-2026-spec-driven-03\\tests\\Encurtador.IntegrationTests\\Encurtador.IntegrationTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rober\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\rober\\.nuget\\packages\\microsoft.aspnetcore.mvc.testing\\10.0.9\\microsoft.aspnetcore.mvc.testing.10.0.9.nupkg.sha512",

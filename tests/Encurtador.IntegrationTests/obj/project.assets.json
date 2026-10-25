@@ -3148,11 +3148,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\temp\\encurtador\\tests\\Encurtador.IntegrationTests\\Encurtador.IntegrationTests.csproj",
+      "projectUniqueName": "D:\\desafio\\balta-desafio-halloween-2026-spec-driven-03\\tests\\Encurtador.IntegrationTests\\Encurtador.IntegrationTests.csproj",
       "projectName": "Encurtador.IntegrationTests",
-      "projectPath": "D:\\temp\\encurtador\\tests\\Encurtador.IntegrationTests\\Encurtador.IntegrationTests.csproj",
+      "projectPath": "D:\\desafio\\balta-desafio-halloween-2026-spec-driven-03\\tests\\Encurtador.IntegrationTests\\Encurtador.IntegrationTests.csproj",
       "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-      "outputPath": "D:\\temp\\encurtador\\tests\\Encurtador.IntegrationTests\\obj\\",
+      "outputPath": "D:\\desafio\\balta-desafio-halloween-2026-spec-driven-03\\tests\\Encurtador.IntegrationTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3175,11 +3175,11 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "D:\\temp\\encurtador\\src\\Encurtador.Api\\Encurtador.Api.csproj": {
-              "projectPath": "D:\\temp\\encurtador\\src\\Encurtador.Api\\Encurtador.Api.csproj"
+            "D:\\desafio\\balta-desafio-halloween-2026-spec-driven-03\\src\\Encurtador.Api\\Encurtador.Api.csproj": {
+              "projectPath": "D:\\desafio\\balta-desafio-halloween-2026-spec-driven-03\\src\\Encurtador.Api\\Encurtador.Api.csproj"
             },
-            "D:\\temp\\encurtador\\src\\Encurtador.Infrastructure\\Encurtador.Infrastructure.csproj": {
-              "projectPath": "D:\\temp\\encurtador\\src\\Encurtador.Infrastructure\\Encurtador.Infrastructure.csproj"
+            "D:\\desafio\\balta-desafio-halloween-2026-spec-driven-03\\src\\Encurtador.Infrastructure\\Encurtador.Infrastructure.csproj": {
+              "projectPath": "D:\\desafio\\balta-desafio-halloween-2026-spec-driven-03\\src\\Encurtador.Infrastructure\\Encurtador.Infrastructure.csproj"
             }
           }
         }

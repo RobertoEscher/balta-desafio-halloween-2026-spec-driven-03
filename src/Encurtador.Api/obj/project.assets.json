@@ -2430,11 +2430,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\temp\\encurtador\\src\\Encurtador.Api\\Encurtador.Api.csproj",
+      "projectUniqueName": "D:\\desafio\\balta-desafio-halloween-2026-spec-driven-03\\src\\Encurtador.Api\\Encurtador.Api.csproj",
       "projectName": "Encurtador.Api",
-      "projectPath": "D:\\temp\\encurtador\\src\\Encurtador.Api\\Encurtador.Api.csproj",
+      "projectPath": "D:\\desafio\\balta-desafio-halloween-2026-spec-driven-03\\src\\Encurtador.Api\\Encurtador.Api.csproj",
       "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-      "outputPath": "D:\\temp\\encurtador\\src\\Encurtador.Api\\obj\\",
+      "outputPath": "D:\\desafio\\balta-desafio-halloween-2026-spec-driven-03\\src\\Encurtador.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2457,11 +2457,11 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "D:\\temp\\encurtador\\src\\Encurtador.Application\\Encurtador.Application.csproj": {
-              "projectPath": "D:\\temp\\encurtador\\src\\Encurtador.Application\\Encurtador.Application.csproj"
+            "D:\\desafio\\balta-desafio-halloween-2026-spec-driven-03\\src\\Encurtador.Application\\Encurtador.Application.csproj": {
+              "projectPath": "D:\\desafio\\balta-desafio-halloween-2026-spec-driven-03\\src\\Encurtador.Application\\Encurtador.Application.csproj"
             },
-            "D:\\temp\\encurtador\\src\\Encurtador.Infrastructure\\Encurtador.Infrastructure.csproj": {
-              "projectPath": "D:\\temp\\encurtador\\src\\Encurtador.Infrastructure\\Encurtador.Infrastructure.csproj"
+            "D:\\desafio\\balta-desafio-halloween-2026-spec-driven-03\\src\\Encurtador.Infrastructure\\Encurtador.Infrastructure.csproj": {
+              "projectPath": "D:\\desafio\\balta-desafio-halloween-2026-spec-driven-03\\src\\Encurtador.Infrastructure\\Encurtador.Infrastructure.csproj"
             }
           }
         }

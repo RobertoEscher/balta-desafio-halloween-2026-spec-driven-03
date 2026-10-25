@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\temp\\encurtador\\src\\Encurtador.Application\\Encurtador.Application.csproj": {}
+    "D:\\desafio\\balta-desafio-halloween-2026-spec-driven-03\\src\\Encurtador.Application\\Encurtador.Application.csproj": {}
   },
   "projects": {
-    "D:\\temp\\encurtador\\src\\Encurtador.Application\\Encurtador.Application.csproj": {
+    "D:\\desafio\\balta-desafio-halloween-2026-spec-driven-03\\src\\Encurtador.Application\\Encurtador.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\temp\\encurtador\\src\\Encurtador.Application\\Encurtador.Application.csproj",
+        "projectUniqueName": "D:\\desafio\\balta-desafio-halloween-2026-spec-driven-03\\src\\Encurtador.Application\\Encurtador.Application.csproj",
         "projectName": "Encurtador.Application",
-        "projectPath": "D:\\temp\\encurtador\\src\\Encurtador.Application\\Encurtador.Application.csproj",
+        "projectPath": "D:\\desafio\\balta-desafio-halloween-2026-spec-driven-03\\src\\Encurtador.Application\\Encurtador.Application.csproj",
         "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-        "outputPath": "D:\\temp\\encurtador\\src\\Encurtador.Application\\obj\\",
+        "outputPath": "D:\\desafio\\balta-desafio-halloween-2026-spec-driven-03\\src\\Encurtador.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

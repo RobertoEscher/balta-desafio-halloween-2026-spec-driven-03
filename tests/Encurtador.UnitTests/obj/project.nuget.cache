@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T95sgr1qW+E=",
+  "dgSpecHash": "H/xjD26Htk4=",
   "success": true,
-  "projectFilePath": "D:\\temp\\encurtador\\tests\\Encurtador.UnitTests\\Encurtador.UnitTests.csproj",
+  "projectFilePath": "D:\\desafio\\balta-desafio-halloween-2026-spec-driven-03\\tests\\Encurtador.UnitTests\\Encurtador.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rober\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\rober\\.nuget\\packages\\microsoft.codecoverage\\17.14.1\\microsoft.codecoverage.17.14.1.nupkg.sha512",
